@@ -5,7 +5,7 @@ This plugin adds a field to the item uploading form that allows you to add files
 
 Designed to work with Omeka 2.0, not tested with earlier versions.
 
-How to use:
+##How to use:
 
 
 
