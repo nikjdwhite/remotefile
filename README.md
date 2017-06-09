@@ -1,5 +1,5 @@
 # remotefile
-Small Omeka plugin that allows user to add a media file from a server via url when it's too big to upload.
+Small Omeka plugin that allows user to add a media file from a server via url.
 
 This plugin adds a field to the item uploading form that allows you to add files that are too large to upload, such as audio recordings.  The files must already be on a server for this plugin to work.
 
